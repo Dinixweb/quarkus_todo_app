@@ -1,0 +1,13 @@
+
+###############TODO APP###########
+ -CREATE  TODO ITEM; STATUS SET TO CREATED
+ -MODIFY
+  -TITLE (Can only change title if there's no similar title in undone, length: not more than 40 characters)
+  -DESCRIPTION (length: shouldn't be more than 100 characters)
+ -CHANGE STATUS TO
+   -IN-PROGRESS
+   -REMOVED
+   -DONE
+
+logs, no more print statements
+
